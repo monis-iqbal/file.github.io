@@ -1,0 +1,51 @@
+.leftside{
+    height: 610px;
+    width: 297px;
+    background-color:  rgb(29, 28, 28);
+}
+.rightside{
+    height: 614px;
+    width: 630px;
+    background-color:   rgb(29, 28, 28);
+    align-items: center;
+    text-align: center;
+}
+.rightside2{
+    height: 614px;
+    width: 330px;
+    background-color:  rgb(29, 28, 28);
+    align-items: bottom;
+}
+#pp{
+   
+
+}
+
+
+body{
+    background-color: rgb(29, 28, 28);
+}
+
+.icons{
+    height: 30px;
+    width: 30px;
+}
+.paras{
+    color: hsl(0, 0%, 50%);
+
+}
+.headings{
+    color: white;
+}
+
+.leftadjust{
+    font-size: xx-small;
+    
+}
+.rightadjust{
+    font-size: xx-small;
+    
+}
+    
+
+
